@@ -1,0 +1,11 @@
+{
+  "name": "magic-bot",
+  "version": "1.0.0",
+  "description": "Magic Eight Ball Bot",
+  "main": "bot.js",
+  "author": "AW",
+  "dependencies": {
+    "discord.io": "github:woor/discord.io#gateway_v6",
+    "winston": "^2.4.0"
+  }
+}
